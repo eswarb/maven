@@ -6,8 +6,7 @@
 	<groupId>com.mkyong</groupId>
 	<artifactId>NumberGenerator</artifactId>
 	<packaging>jar</packaging>
-	<version>Edgeops_0.1</version>
-	<name>NumberGenerator</name>
+	<version>Edgeops_1.0</version>
 	<url>http://maven.apache.org</url>
 	<dependencies>
 		<dependency>
